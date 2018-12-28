@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SetDemoData</string>
+    <string name="hint_message2">Please enter the data in the format:Product Name-Code-Unit Price.\nFor example \nCoffee-123456-1$\nApple-345678-2$</string>
+    <string name="hint_message">请按照下面的格式输入数据（-号间隔内容，换行输入第二条数据）：\nName-Code-Room No\nName-Code-Room No\n例：Roger Federer-12345-1</string>
+    <string name="hint_message3">请按照下面的格式输入数据（-号间隔内容，换行输入第二条数据）：\nName-Code-Sex-Age-Room No-Blood Type-Admission date\nName-Code-Sex-Age-Room No-Blood Type-Admission date\n例：Roger Federer-12345-Male-50-1</string>
+</resources>
